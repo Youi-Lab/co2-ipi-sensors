@@ -1,5 +1,5 @@
 # co2-ipi-sensors
-Rest service co2 sensors made at IPICYT
+Rest service to store and retrieve  co2 IPICYT´s sensor data.
 
 1. Upload sensor id data into the database:
 
